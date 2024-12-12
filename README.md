@@ -1,5 +1,7 @@
 # Dictionary Website
 
+https://project-12-rho.vercel.app/
+
 ## Overview
 The Dictionary Website is a simple web application that allows users to search for the meanings of words. It utilizes the Dictionary API to fetch definitions, examples, and phonetics for the searched words. The application is designed to be user-friendly and responsive, making it accessible on various devices.
 
